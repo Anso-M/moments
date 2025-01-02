@@ -44,15 +44,23 @@ O projeto **Moments** oferece as seguintes funcionalidades para o gerenciamento 
    - O usuário pode visualizar uma lista de momentos registrados, que são exibidos de maneira clara e organizada na interface.
    - Cada momento contém informações como título, data, descrição, e imagem associada.
 
+![](assets/img/home.png)
+
 ### 2. **Criar Novo Momento (Compartilhar)**
    - O usuário pode criar novos momentos, preenchendo informações como título, descrição e imagem (opcional).
    - O momento criado será automaticamente adicionado à lista de momentos, com a possibilidade de visualização imediata.
 
+![](assets/img/compartilhar.png)
+
 ### 3. **Editar Momento**
    - O usuário pode editar momentos existentes para atualizar informações como o título, descrição e/ou imagem.
 
+![](assets/img/editar.png)
+
 ### 4. **Excluir Momento**
    - O usuário tem a opção de excluir momentos que não deseja mais visualizar ou manter.
+
+![](assets/img/momento.png)
 
 ### 5. **Buscar Momento**
    - O usuário pode buscar momentos específicos usando caracteres contidos nos títulos dos momentos, facilitando a navegação na lista.
@@ -60,3 +68,5 @@ O projeto **Moments** oferece as seguintes funcionalidades para o gerenciamento 
 ### 7. **Adicionar comentário ao momento**
    - O usuário pode adicionar comentários à cada um dos momentos individualmente.
    - Após abrir a página de um momento específico, basta preencher o campo do comentário e o nome do autor e clicar em comentar.
+
+![](assets/img/comentar.png)

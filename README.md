@@ -65,7 +65,7 @@ O projeto **Moments** oferece as seguintes funcionalidades para o gerenciamento 
 ### 5. **Buscar Momento**
    - O usuário pode buscar momentos específicos usando caracteres contidos nos títulos dos momentos, facilitando a navegação na lista.
 
-### 7. **Adicionar comentário ao momento**
+### 6. **Adicionar comentário ao momento**
    - O usuário pode adicionar comentários à cada um dos momentos individualmente.
    - Após abrir a página de um momento específico, basta preencher o campo do comentário e o nome do autor e clicar em comentar.
 
